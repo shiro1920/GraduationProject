@@ -1,6 +1,6 @@
 # This is my graduate project.
 
-We investigated the relationshipe between the angular momentum parameter (\Lambda_{\rm Re}) 
+We investigated the relationshipe between the angular momentum parameter ($\Lambda_{\rm Re}$) 
 classification (fast rotators & slow rotators) and the properties of their galaxies.
 
 # Figure 3-4
